@@ -15,9 +15,110 @@
     "rootNodes":[{
         "pageName":"主页",
         "type":"Wireframe",
-        "url":"主页.html"}]},
+        "url":"主页.html"},
+{
+        "pageName":"订单",
+        "type":"Wireframe",
+        "url":"订单.html"},
+{
+        "pageName":"我的",
+        "type":"Wireframe",
+        "url":"我的.html"},
+{
+        "pageName":"生活",
+        "type":"Wireframe",
+        "url":"生活.html"},
+{
+        "pageName":"更多",
+        "type":"Wireframe",
+        "url":"更多.html"},
+{
+        "pageName":"选择城市",
+        "type":"Wireframe",
+        "url":"选择城市.html"},
+{
+        "pageName":"拨打电话",
+        "type":"Wireframe",
+        "url":"拨打电话.html"},
+{
+        "pageName":"项目大类型选择",
+        "type":"Wireframe",
+        "url":"项目大类型选择.html"},
+{
+        "pageName":"技师浏览",
+        "type":"Wireframe",
+        "url":"技师浏览.html"},
+{
+        "pageName":"预约界面",
+        "type":"Wireframe",
+        "url":"预约界面.html"},
+{
+        "pageName":"登录界面",
+        "type":"Wireframe",
+        "url":"登录界面.html"},
+{
+        "pageName":"免责声明",
+        "type":"Wireframe",
+        "url":"免责声明.html"},
+{
+        "pageName":"服务地址",
+        "type":"Wireframe",
+        "url":"服务地址.html"},
+{
+        "pageName":"大地址联想",
+        "type":"Wireframe",
+        "url":"大地址联想.html"},
+{
+        "pageName":"常用地址",
+        "type":"Wireframe",
+        "url":"常用地址.html"},
+{
+        "pageName":"基于LBS的推荐技师",
+        "type":"Wireframe",
+        "url":"基于lbs的推荐技师.html"},
+{
+        "pageName":"技师展示界面",
+        "type":"Wireframe",
+        "url":"技师展示界面.html"},
+{
+        "pageName":"技师个人信息",
+        "type":"Wireframe",
+        "url":"技师个人信息.html"},
+{
+        "pageName":"客户平价界面",
+        "type":"Wireframe",
+        "url":"客户平价界面.html"},
+{
+        "pageName":"项目详情",
+        "type":"Wireframe",
+        "url":"项目详情.html"},
+{
+        "pageName":"单个流程介绍",
+        "type":"Wireframe",
+        "url":"单个流程介绍.html"},
+{
+        "pageName":"单个产品介绍",
+        "type":"Wireframe",
+        "url":"单个产品介绍.html"},
+{
+        "pageName":"订单确认",
+        "type":"Wireframe",
+        "url":"订单确认.html"},
+{
+        "pageName":"选择优惠券",
+        "type":"Wireframe",
+        "url":"选择优惠券.html"},
+{
+        "pageName":"支付完成",
+        "type":"Wireframe",
+        "url":"支付完成.html"},
+{
+        "pageName":"浏览器",
+        "type":"Wireframe",
+        "url":"浏览器.html"}]},
   "globalVariables":{
-    "onloadvariable":""},
+    "onloadvariable":"",
+    "islogin":"false"},
   "defaultAdaptiveView":{
     "name":"",
     "size":{
