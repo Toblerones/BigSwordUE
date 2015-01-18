@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"单个产品介绍.html",
-  "generationDate":new Date(1421169787872.59),
+  "generationDate":new Date(1421557102083.31),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "isLogin"],
@@ -117,7 +117,7 @@
                 "a":{
 }}}],
           "images":{
-            "normal~":"images/单个产品介绍/u6.png"}},
+            "normal~":"images/单个产品介绍/u8.png"}},
 {
           "id":"0c8814a2abbc47cb865dd27ff9755959",
           "label":"",
@@ -337,6 +337,35 @@
 },
       "diagram":{
         "objects":[{
+            "id":"193809c55b604a239711248fd3b92b17",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"buttonShape",
+            "visible":true,
+            "style":{
+              "size":{
+                "width":320,
+                "height":480}},
+            "adaptiveStyles":{
+              "a":{
+}},
+            "objects":[{
+                "id":"fb301888262643c4b28fcad2d5ca7aa9",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "size":{
+                    "width":320,
+                    "height":480}},
+                "adaptiveStyles":{
+                  "a":{
+}}}],
+            "images":{
+              "normal~":"images/主页/u1_a.png"}},
+{
             "id":"3a8352b0bdb94ce9a3089c99ad30d525",
             "label":"",
             "type":"buttonShape",
@@ -411,37 +440,41 @@
   "objectPaths":{
     "f64216b0c6d2427e9b26e297382832e7":{
       "scriptId":"u0",
-      "3a8352b0bdb94ce9a3089c99ad30d525":{
+      "193809c55b604a239711248fd3b92b17":{
         "scriptId":"u1"},
-      "5e026ecd19c44faaaf17922e877148fb":{
+      "fb301888262643c4b28fcad2d5ca7aa9":{
         "scriptId":"u2"},
+      "3a8352b0bdb94ce9a3089c99ad30d525":{
+        "scriptId":"u3"},
+      "5e026ecd19c44faaaf17922e877148fb":{
+        "scriptId":"u4"},
       "9b46f5ced4cd494bb946afb473a1d17b":{
-        "scriptId":"u3"}},
+        "scriptId":"u5"}},
     "c973a4cf6900472283f37d800a822999":{
-      "scriptId":"u4"},
-    "eafdeab293484821897fe397e05c6e84":{
-      "scriptId":"u5"},
-    "01327f4dc7ff412dbc655867f5d5aae4":{
       "scriptId":"u6"},
-    "c5ffe05dacaa42369ba922b800994298":{
+    "eafdeab293484821897fe397e05c6e84":{
       "scriptId":"u7"},
-    "0c8814a2abbc47cb865dd27ff9755959":{
+    "01327f4dc7ff412dbc655867f5d5aae4":{
       "scriptId":"u8"},
-    "c88f8c17df2d4560bf0b962e0f02bcd3":{
+    "c5ffe05dacaa42369ba922b800994298":{
       "scriptId":"u9"},
-    "03cdba1d7ee742119b5c4906217dba66":{
+    "0c8814a2abbc47cb865dd27ff9755959":{
       "scriptId":"u10"},
-    "68a1423be28c4a5789eeada24556b1dd":{
+    "c88f8c17df2d4560bf0b962e0f02bcd3":{
       "scriptId":"u11"},
-    "103725cf4ac547c5b8a1d0e674ca9372":{
+    "03cdba1d7ee742119b5c4906217dba66":{
       "scriptId":"u12"},
-    "2badd3f1950b4774b22e83fb2279d368":{
+    "68a1423be28c4a5789eeada24556b1dd":{
       "scriptId":"u13"},
-    "69b7ce72b610431db9394858e33f9a8e":{
+    "103725cf4ac547c5b8a1d0e674ca9372":{
       "scriptId":"u14"},
-    "8b24a9553ea74bdab5396d06540c3d6e":{
+    "2badd3f1950b4774b22e83fb2279d368":{
       "scriptId":"u15"},
-    "6f41ba42b5754274a90ac16d5ba60cfd":{
+    "69b7ce72b610431db9394858e33f9a8e":{
       "scriptId":"u16"},
+    "8b24a9553ea74bdab5396d06540c3d6e":{
+      "scriptId":"u17"},
+    "6f41ba42b5754274a90ac16d5ba60cfd":{
+      "scriptId":"u18"},
     "a89fff55f14d4d3788426add9545f9bf":{
-      "scriptId":"u17"}}});
+      "scriptId":"u19"}}});

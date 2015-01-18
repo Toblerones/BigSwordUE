@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"浏览器.html",
-  "generationDate":new Date(1421169789031.7),
+  "generationDate":new Date(1421557103377.32),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "isLogin"],
@@ -79,7 +79,7 @@
                 "a":{
 }}}],
           "images":{
-            "normal~":"images/浏览器/u7.png"}}]}},
+            "normal~":"images/浏览器/u9.png"}}]}},
   "masters":{
     "52ee8f3ceac7427591e65387d4ad55e3":{
       "packageId":"52ee8f3ceac7427591e65387d4ad55e3",
@@ -109,6 +109,35 @@
 },
       "diagram":{
         "objects":[{
+            "id":"6c4e8dd2ce2a4cfa97079ca62a08f514",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"buttonShape",
+            "visible":true,
+            "style":{
+              "size":{
+                "width":320,
+                "height":480}},
+            "adaptiveStyles":{
+              "a":{
+}},
+            "objects":[{
+                "id":"3bdaf27f90f7405387ad1a28bfd8a3bd",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "size":{
+                    "width":320,
+                    "height":480}},
+                "adaptiveStyles":{
+                  "a":{
+}}}],
+            "images":{
+              "normal~":"images/主页/u1_a.png"}},
+{
             "id":"969da570c0754d46aab9ef185820f2e9",
             "label":"",
             "type":"buttonShape",
@@ -252,19 +281,23 @@
   "objectPaths":{
     "1bc6230dcbc44d6285487c09d159ab56":{
       "scriptId":"u0",
-      "969da570c0754d46aab9ef185820f2e9":{
+      "6c4e8dd2ce2a4cfa97079ca62a08f514":{
         "scriptId":"u1"},
-      "c2ffe21ef1514ea7987ef7fddc6ca934":{
+      "3bdaf27f90f7405387ad1a28bfd8a3bd":{
         "scriptId":"u2"},
-      "b4fd103904ed416490dc192678eba5e2":{
+      "969da570c0754d46aab9ef185820f2e9":{
         "scriptId":"u3"},
-      "334bc3d49c4a4be6986c74660162b40b":{
+      "c2ffe21ef1514ea7987ef7fddc6ca934":{
         "scriptId":"u4"},
-      "1eb29815b01a418bada419582403b646":{
+      "b4fd103904ed416490dc192678eba5e2":{
         "scriptId":"u5"},
+      "334bc3d49c4a4be6986c74660162b40b":{
+        "scriptId":"u6"},
+      "1eb29815b01a418bada419582403b646":{
+        "scriptId":"u7"},
       "12acd01b39ef412888d57e215966046b":{
-        "scriptId":"u6"}},
+        "scriptId":"u8"}},
     "dec161a9835e459b9703d5cca4b12302":{
-      "scriptId":"u7"},
+      "scriptId":"u9"},
     "100aca82d8ba4f469124ed3ac7057778":{
-      "scriptId":"u8"}}});
+      "scriptId":"u10"}}});

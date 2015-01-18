@@ -81,6 +81,10 @@
         "type":"Wireframe",
         "url":"技师展示界面.html"},
 {
+        "pageName":"技师展示界面选定服务入口",
+        "type":"Wireframe",
+        "url":"技师展示界面选定服务入口.html"},
+{
         "pageName":"技师个人信息",
         "type":"Wireframe",
         "url":"技师个人信息.html"},
@@ -109,13 +113,21 @@
         "type":"Wireframe",
         "url":"选择优惠券.html"},
 {
+        "pageName":"兑换优惠码",
+        "type":"Wireframe",
+        "url":"兑换优惠码.html"},
+{
         "pageName":"支付完成",
         "type":"Wireframe",
         "url":"支付完成.html"},
 {
         "pageName":"浏览器",
         "type":"Wireframe",
-        "url":"浏览器.html"}]},
+        "url":"浏览器.html"},
+{
+        "pageName":"技师的可用时间选择界面",
+        "type":"Wireframe",
+        "url":"技师的可用时间选择界面.html"}]},
   "globalVariables":{
     "onloadvariable":"",
     "islogin":"false"},

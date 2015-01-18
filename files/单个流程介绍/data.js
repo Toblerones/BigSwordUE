@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"单个流程介绍.html",
-  "generationDate":new Date(1421169787617.56),
+  "generationDate":new Date(1421557101910.25),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "isLogin"],
@@ -114,7 +114,7 @@
                 "a":{
 }}}],
           "images":{
-            "normal~":"images/单个流程介绍/u6.png"}},
+            "normal~":"images/单个流程介绍/u8.png"}},
 {
           "id":"787d1c6d972041238515e852a9390e92",
           "label":"",
@@ -258,6 +258,35 @@
 },
       "diagram":{
         "objects":[{
+            "id":"193809c55b604a239711248fd3b92b17",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"buttonShape",
+            "visible":true,
+            "style":{
+              "size":{
+                "width":320,
+                "height":480}},
+            "adaptiveStyles":{
+              "a":{
+}},
+            "objects":[{
+                "id":"fb301888262643c4b28fcad2d5ca7aa9",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "size":{
+                    "width":320,
+                    "height":480}},
+                "adaptiveStyles":{
+                  "a":{
+}}}],
+            "images":{
+              "normal~":"images/主页/u1_a.png"}},
+{
             "id":"3a8352b0bdb94ce9a3089c99ad30d525",
             "label":"",
             "type":"buttonShape",
@@ -332,29 +361,33 @@
   "objectPaths":{
     "66cc956b91dc4926b4e5a58086091f5c":{
       "scriptId":"u0",
-      "3a8352b0bdb94ce9a3089c99ad30d525":{
+      "193809c55b604a239711248fd3b92b17":{
         "scriptId":"u1"},
-      "5e026ecd19c44faaaf17922e877148fb":{
+      "fb301888262643c4b28fcad2d5ca7aa9":{
         "scriptId":"u2"},
+      "3a8352b0bdb94ce9a3089c99ad30d525":{
+        "scriptId":"u3"},
+      "5e026ecd19c44faaaf17922e877148fb":{
+        "scriptId":"u4"},
       "9b46f5ced4cd494bb946afb473a1d17b":{
-        "scriptId":"u3"}},
+        "scriptId":"u5"}},
     "5a8fdfd0baad458aaa886c7d010d8378":{
-      "scriptId":"u4"},
-    "7c877b184930409fa670d4209bee5e89":{
-      "scriptId":"u5"},
-    "a7dc838ed7ef471e870d9b9d8cc64be8":{
       "scriptId":"u6"},
-    "c56870b22cdf4f9f87892dd41084d25d":{
+    "7c877b184930409fa670d4209bee5e89":{
       "scriptId":"u7"},
-    "787d1c6d972041238515e852a9390e92":{
+    "a7dc838ed7ef471e870d9b9d8cc64be8":{
       "scriptId":"u8"},
-    "e30fc335eea8472aa54a947f1db23123":{
+    "c56870b22cdf4f9f87892dd41084d25d":{
       "scriptId":"u9"},
-    "abe725d36dd148a1a3fe384a2965238d":{
+    "787d1c6d972041238515e852a9390e92":{
       "scriptId":"u10"},
-    "373b426eed6b475fb90b22004680dbb9":{
+    "e30fc335eea8472aa54a947f1db23123":{
       "scriptId":"u11"},
-    "768f33047be94dc8a581dda64fbb9fcc":{
+    "abe725d36dd148a1a3fe384a2965238d":{
       "scriptId":"u12"},
+    "373b426eed6b475fb90b22004680dbb9":{
+      "scriptId":"u13"},
+    "768f33047be94dc8a581dda64fbb9fcc":{
+      "scriptId":"u14"},
     "560468adfcf64de6941b725756872de0":{
-      "scriptId":"u13"}}});
+      "scriptId":"u15"}}});

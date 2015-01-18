@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"选择优惠券.html",
-  "generationDate":new Date(1421169788590.63),
+  "generationDate":new Date(1421557102731.35),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "isLogin"],
@@ -136,7 +136,7 @@
                         "a":{
 }}}],
                   "images":{
-                    "normal~":"images/项目详情/u6.png"}},
+                    "normal~":"images/项目详情/u8.png"}},
 {
                   "id":"8a606b36aa66436f9f37c444c6ff2d39",
                   "label":"",
@@ -249,7 +249,7 @@
                         "a":{
 }}}],
                   "images":{
-                    "normal~":"images/项目详情/u6.png"}},
+                    "normal~":"images/项目详情/u8.png"}},
 {
                   "id":"8fd1341b64994e259ab267eb1907ef71",
                   "label":"",
@@ -365,7 +365,7 @@
                         "a":{
 }}}],
                   "images":{
-                    "normal~":"images/项目详情/u6.png"}},
+                    "normal~":"images/项目详情/u8.png"}},
 {
                   "id":"2cb91938c4fd4dfb8779dbc5e5a44ccb",
                   "label":"",
@@ -427,7 +427,38 @@
                       "height":25}},
                   "adaptiveStyles":{
                     "a":{
-}}}]}]}]}},
+}}}]}]},
+{
+          "id":"8c8ed020b0314d2ab71d57c5f481064a",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":210,
+              "y":14},
+            "size":{
+              "width":100,
+              "height":25}},
+          "adaptiveStyles":{
+            "a":{
+}},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 兑换优惠码",
+                      "target":{
+                        "targetType":"page",
+                        "url":"兑换优惠码.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true}]}},
   "masters":{
     "c0462b19eeab412787c3050c808291eb":{
       "packageId":"c0462b19eeab412787c3050c808291eb",
@@ -457,6 +488,35 @@
 },
       "diagram":{
         "objects":[{
+            "id":"193809c55b604a239711248fd3b92b17",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"buttonShape",
+            "visible":true,
+            "style":{
+              "size":{
+                "width":320,
+                "height":480}},
+            "adaptiveStyles":{
+              "a":{
+}},
+            "objects":[{
+                "id":"fb301888262643c4b28fcad2d5ca7aa9",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "size":{
+                    "width":320,
+                    "height":480}},
+                "adaptiveStyles":{
+                  "a":{
+}}}],
+            "images":{
+              "normal~":"images/主页/u1_a.png"}},
+{
             "id":"3a8352b0bdb94ce9a3089c99ad30d525",
             "label":"",
             "type":"buttonShape",
@@ -531,49 +591,55 @@
   "objectPaths":{
     "f13e1caf332440a29f2b2779dd8a1618":{
       "scriptId":"u0",
-      "3a8352b0bdb94ce9a3089c99ad30d525":{
+      "193809c55b604a239711248fd3b92b17":{
         "scriptId":"u1"},
-      "5e026ecd19c44faaaf17922e877148fb":{
+      "fb301888262643c4b28fcad2d5ca7aa9":{
         "scriptId":"u2"},
+      "3a8352b0bdb94ce9a3089c99ad30d525":{
+        "scriptId":"u3"},
+      "5e026ecd19c44faaaf17922e877148fb":{
+        "scriptId":"u4"},
       "9b46f5ced4cd494bb946afb473a1d17b":{
-        "scriptId":"u3"}},
+        "scriptId":"u5"}},
     "a19fcb81cbe14192922a054b9d1a386d":{
-      "scriptId":"u4"},
-    "ab3e67c904a24569addd096132098c3a":{
-      "scriptId":"u5"},
-    "1f671d2bccbc4270902bfe375c593ff5":{
       "scriptId":"u6"},
-    "39c27a82260d4fa8971288afd7e1d422":{
+    "ab3e67c904a24569addd096132098c3a":{
       "scriptId":"u7"},
-    "811a9898d62e4edcbfcf29d91e54c760":{
+    "1f671d2bccbc4270902bfe375c593ff5":{
       "scriptId":"u8"},
-    "8a606b36aa66436f9f37c444c6ff2d39":{
+    "39c27a82260d4fa8971288afd7e1d422":{
       "scriptId":"u9"},
-    "bbe224c442bc4b19a9d948fd9c7f0495":{
+    "811a9898d62e4edcbfcf29d91e54c760":{
       "scriptId":"u10"},
-    "ae2365ff94b0473dbc3c7cf71e84801f":{
+    "8a606b36aa66436f9f37c444c6ff2d39":{
       "scriptId":"u11"},
-    "5f2120e5124f47b99636cbcab0476759":{
+    "bbe224c442bc4b19a9d948fd9c7f0495":{
       "scriptId":"u12"},
-    "7022a7380c2744c5a9788f785994eb26":{
+    "ae2365ff94b0473dbc3c7cf71e84801f":{
       "scriptId":"u13"},
-    "3f7b70f7066c460da584421896906e98":{
+    "5f2120e5124f47b99636cbcab0476759":{
       "scriptId":"u14"},
-    "8fd1341b64994e259ab267eb1907ef71":{
+    "7022a7380c2744c5a9788f785994eb26":{
       "scriptId":"u15"},
-    "be16b0ad46ea43759d8f2dcdc91ee418":{
+    "3f7b70f7066c460da584421896906e98":{
       "scriptId":"u16"},
-    "cd60d6f432634cbd9914534954161133":{
+    "8fd1341b64994e259ab267eb1907ef71":{
       "scriptId":"u17"},
-    "8e3c093ddbe748f6a0d8f50918395950":{
+    "be16b0ad46ea43759d8f2dcdc91ee418":{
       "scriptId":"u18"},
-    "1c8aeae1ce9f4af5bf3257cb76cc478f":{
+    "cd60d6f432634cbd9914534954161133":{
       "scriptId":"u19"},
-    "3bf69e7fb9e44a4899d556f2085aaf4e":{
+    "8e3c093ddbe748f6a0d8f50918395950":{
       "scriptId":"u20"},
-    "2cb91938c4fd4dfb8779dbc5e5a44ccb":{
+    "1c8aeae1ce9f4af5bf3257cb76cc478f":{
       "scriptId":"u21"},
-    "30530824687642c9a194ed2fe26ce5af":{
+    "3bf69e7fb9e44a4899d556f2085aaf4e":{
       "scriptId":"u22"},
+    "2cb91938c4fd4dfb8779dbc5e5a44ccb":{
+      "scriptId":"u23"},
+    "30530824687642c9a194ed2fe26ce5af":{
+      "scriptId":"u24"},
     "00cf6b0b3004402ea72788710b4ade05":{
-      "scriptId":"u23"}}});
+      "scriptId":"u25"},
+    "8c8ed020b0314d2ab71d57c5f481064a":{
+      "scriptId":"u26"}}});

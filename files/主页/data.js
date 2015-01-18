@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"主页.html",
-  "generationDate":new Date(1421169780863.03),
+  "generationDate":new Date(1421557095950.67),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "isLogin"],
@@ -176,10 +176,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 预约界面",
+                      "description":"在 当前窗口 打开 项目大类型选择",
                       "target":{
                         "targetType":"page",
-                        "url":"预约界面.html",
+                        "url":"项目大类型选择.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},

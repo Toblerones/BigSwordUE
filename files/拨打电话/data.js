@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"拨打电话.html",
-  "generationDate":new Date(1421169783264.24),
+  "generationDate":new Date(1421557097927.8),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "isLogin"],

@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:300px;
+  width:320px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -16,17 +16,39 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:200px;
-  height:100px;
+  width:320px;
+  height:480px;
 }
 #u1_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:320px;
+  height:480px;
+}
+#u2 {
+  position:absolute;
+  left:2px;
+  top:232px;
+  width:316px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u3 {
   position:absolute;
   left:0px;
   top:0px;
   width:200px;
   height:100px;
 }
-#u2 {
+#u3_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:200px;
+  height:100px;
+}
+#u4 {
   position:absolute;
   left:2px;
   top:42px;
@@ -34,14 +56,14 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u3 {
+#u5 {
   position:absolute;
   left:211px;
   top:13px;
   width:100px;
   height:25px;
 }
-#u3_input {
+#u5_input {
   position:absolute;
   left:0px;
   top:0px;
@@ -56,7 +78,7 @@
   font-style:normal;
   text-decoration:none;
 }
-#u4 {
+#u6 {
   position:absolute;
   left:120px;
   top:14px;
@@ -64,35 +86,35 @@
   height:23px;
   font-size:20px;
 }
-#u4_img {
+#u6_img {
   position:absolute;
   left:0px;
   top:0px;
   width:81px;
   height:23px;
 }
-#u5 {
+#u7 {
   position:absolute;
   left:0px;
   top:0px;
   width:81px;
   white-space:nowrap;
 }
-#u6 {
+#u8 {
   position:absolute;
   left:10px;
   top:60px;
   width:290px;
   height:210px;
 }
-#u6_img {
+#u8_img {
   position:absolute;
   left:0px;
   top:0px;
   width:290px;
   height:210px;
 }
-#u7 {
+#u9 {
   position:absolute;
   left:2px;
   top:97px;
@@ -100,52 +122,31 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u8 {
+#u10 {
   position:absolute;
   left:10px;
   top:290px;
   width:53px;
   height:16px;
 }
-#u8_img {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:53px;
-  height:16px;
-}
-#u9 {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:53px;
-  white-space:nowrap;
-}
-#u10 {
-  position:absolute;
-  left:10px;
-  top:324px;
-  width:27px;
-  height:16px;
-}
 #u10_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:27px;
+  width:53px;
   height:16px;
 }
 #u11 {
   position:absolute;
   left:0px;
   top:0px;
-  width:27px;
+  width:53px;
   white-space:nowrap;
 }
 #u12 {
   position:absolute;
   left:10px;
-  top:356px;
+  top:324px;
   width:27px;
   height:16px;
 }
@@ -166,39 +167,60 @@
 #u14 {
   position:absolute;
   left:10px;
-  top:388px;
-  width:40px;
+  top:356px;
+  width:27px;
   height:16px;
 }
 #u14_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:40px;
+  width:27px;
   height:16px;
 }
 #u15 {
   position:absolute;
   left:0px;
   top:0px;
-  width:40px;
+  width:27px;
   white-space:nowrap;
 }
 #u16 {
   position:absolute;
   left:10px;
-  top:444px;
-  width:53px;
+  top:388px;
+  width:40px;
   height:16px;
 }
 #u16_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:53px;
+  width:40px;
   height:16px;
 }
 #u17 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:40px;
+  white-space:nowrap;
+}
+#u18 {
+  position:absolute;
+  left:10px;
+  top:444px;
+  width:53px;
+  height:16px;
+}
+#u18_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:53px;
+  height:16px;
+}
+#u19 {
   position:absolute;
   left:0px;
   top:0px;
@@ -219,28 +241,30 @@ body.a {  background-color:rgba(255, 255, 255, 1);
   left:0px;
   top:0px;
   width:320px;
-  height:50px;
+  height:480px;
 }
 #u1.a {
+}
+#u3.a {
   width:320px;
   height:50px;
 }
-#u1_img.a {
+#u3_img.a {
   width:320px;
   height:50px;
 }
-#u2.a {
+#u4.a {
   top:17px;
   width:316px;
 }
-#u3.a {
+#u5.a {
   position:absolute;
   left:10px;
   top:12px;
   width:71px;
   height:25px;
 }
-#u3_input.a {
+#u5_input.a {
   position:absolute;
   left:0px;
   top:0px;
@@ -255,19 +279,13 @@ body.a {  background-color:rgba(255, 255, 255, 1);
   font-style:normal;
   text-decoration:none;
 }
-#u4.a {
-}
-#u4_img.a {
-}
-#u5.a {
-}
 #u6.a {
 }
+#u6_img.a {
+}
+#u7.a {
+}
 #u8.a {
-}
-#u8_img.a {
-}
-#u9.a {
 }
 #u10.a {
 }
@@ -292,4 +310,10 @@ body.a {  background-color:rgba(255, 255, 255, 1);
 #u16_img.a {
 }
 #u17.a {
+}
+#u18.a {
+}
+#u18_img.a {
+}
+#u19.a {
 }

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"更多.html",
-  "generationDate":new Date(1421169782748.24),
+  "generationDate":new Date(1421557097545.78),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "isLogin"],
@@ -543,6 +543,119 @@
                     "normal~":"images/我的/u29.png",
                     "normal~a":"images/我的/u29_a.png"}}]}]},
 {
+          "id":"261c828d23644f64954c42cbb55d0d8a",
+          "label":"",
+          "type":"dynamicPanel",
+          "styleType":"dynamicPanel",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":10,
+              "y":268},
+            "size":{
+              "width":10,
+              "height":10},
+            "limbo":true},
+          "adaptiveStyles":{
+            "a":{
+              "location":{
+                "x":0,
+                "y":258},
+              "limbo":false}},
+          "scrollbars":"none",
+          "fitToContent":true,
+          "propagate":false,
+          "diagrams":[{
+              "id":"22c380cdc5224cb5ae54993520f8c128",
+              "label":"状态1",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"5e106de156594170aa6e1ae6c8f5f00c",
+                  "label":"",
+                  "parentDynamicPanel":"261c828d23644f64954c42cbb55d0d8a",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "horizontalAlignment":"left",
+                    "size":{
+                      "width":200,
+                      "height":100},
+                    "limbo":true},
+                  "adaptiveStyles":{
+                    "a":{
+                      "size":{
+                        "width":320,
+                        "height":40},
+                      "limbo":false}},
+                  "objects":[{
+                      "id":"a5c2023f6bc448f7a19583785935f807",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"261c828d23644f64954c42cbb55d0d8a",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "horizontalAlignment":"left",
+                        "size":{
+                          "width":200,
+                          "height":100},
+                        "limbo":true},
+                      "adaptiveStyles":{
+                        "a":{
+}}}],
+                  "images":{
+                    "normal~":"images/主页/u9.png",
+                    "normal~a":"images/订单/u15_a.png"}},
+{
+                  "id":"f06454cf55654c289afc46d45b23481f",
+                  "label":"",
+                  "parentDynamicPanel":"261c828d23644f64954c42cbb55d0d8a",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":270,
+                      "y":8},
+                    "size":{
+                      "width":100,
+                      "height":30},
+                    "limbo":true,
+                    "cornerRadiusTopLeft":"5"},
+                  "adaptiveStyles":{
+                    "a":{
+                      "size":{
+                        "width":30,
+                        "height":25},
+                      "limbo":false,
+                      "borderWidth":"-1",
+                      "linePattern":"none"}},
+                  "objects":[{
+                      "id":"5fa44012628f443e88e5526e2bcff481",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"261c828d23644f64954c42cbb55d0d8a",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "location":{
+                          "x":270,
+                          "y":8},
+                        "size":{
+                          "width":100,
+                          "height":30},
+                        "limbo":true,
+                        "cornerRadiusTopLeft":"5"},
+                      "adaptiveStyles":{
+                        "a":{
+}}}],
+                  "images":{
+                    "normal~":"images/我的/u29.png",
+                    "normal~a":"images/我的/u29_a.png"}}]}]},
+{
           "id":"7906f8f97e1145489a25dcb64c4cab80",
           "label":"",
           "type":"dynamicPanel",
@@ -558,6 +671,9 @@
             "limbo":true},
           "adaptiveStyles":{
             "a":{
+              "location":{
+                "x":0,
+                "y":297},
               "limbo":false}},
           "scrollbars":"none",
           "fitToContent":true,
@@ -1102,13 +1218,23 @@
       "scriptId":"u33"},
     "54031ecb436d491a99304b618ec8a5c9":{
       "scriptId":"u34"},
-    "7906f8f97e1145489a25dcb64c4cab80":{
+    "261c828d23644f64954c42cbb55d0d8a":{
       "scriptId":"u35"},
-    "ddf8068fe4e94db8bff266fadbcdfd6e":{
+    "5e106de156594170aa6e1ae6c8f5f00c":{
       "scriptId":"u36"},
-    "94fbada15c4f4a4aac9a3fdca6027008":{
+    "a5c2023f6bc448f7a19583785935f807":{
       "scriptId":"u37"},
-    "ad12bf1506ea4855b699ce015861cc4e":{
+    "f06454cf55654c289afc46d45b23481f":{
       "scriptId":"u38"},
+    "5fa44012628f443e88e5526e2bcff481":{
+      "scriptId":"u39"},
+    "7906f8f97e1145489a25dcb64c4cab80":{
+      "scriptId":"u40"},
+    "ddf8068fe4e94db8bff266fadbcdfd6e":{
+      "scriptId":"u41"},
+    "94fbada15c4f4a4aac9a3fdca6027008":{
+      "scriptId":"u42"},
+    "ad12bf1506ea4855b699ce015861cc4e":{
+      "scriptId":"u43"},
     "27ecea83a4584ca1bc217ae9c439749c":{
-      "scriptId":"u39"}}});
+      "scriptId":"u44"}}});

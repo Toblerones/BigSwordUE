@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"生活.html",
-  "generationDate":new Date(1421169782440.14),
+  "generationDate":new Date(1421557097278.81),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "isLogin"],

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"大地址联想.html",
-  "generationDate":new Date(1421169785236.41),
+  "generationDate":new Date(1421557099615.92),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "isLogin"],
@@ -139,7 +139,7 @@
                         "a":{
 }}}],
                   "images":{
-                    "normal~":"images/预约界面/u5.png"}},
+                    "normal~":"images/预约界面/u7.png"}},
 {
                   "id":"cca414270db2442bbebdeb314eaf6754",
                   "label":"",
@@ -176,7 +176,7 @@
                         "a":{
 }}}],
                   "images":{
-                    "normal~":"images/预约界面/u7.png"}},
+                    "normal~":"images/预约界面/u9.png"}},
 {
                   "id":"97b2f4baa5e147b9b3b240519fc5961f",
                   "label":"",
@@ -246,6 +246,35 @@
 },
       "diagram":{
         "objects":[{
+            "id":"193809c55b604a239711248fd3b92b17",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"buttonShape",
+            "visible":true,
+            "style":{
+              "size":{
+                "width":320,
+                "height":480}},
+            "adaptiveStyles":{
+              "a":{
+}},
+            "objects":[{
+                "id":"fb301888262643c4b28fcad2d5ca7aa9",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "size":{
+                    "width":320,
+                    "height":480}},
+                "adaptiveStyles":{
+                  "a":{
+}}}],
+            "images":{
+              "normal~":"images/主页/u1_a.png"}},
+{
             "id":"3a8352b0bdb94ce9a3089c99ad30d525",
             "label":"",
             "type":"buttonShape",
@@ -320,27 +349,31 @@
   "objectPaths":{
     "4e7a4d7398014fa796d2a720d4e79d5c":{
       "scriptId":"u0",
-      "3a8352b0bdb94ce9a3089c99ad30d525":{
+      "193809c55b604a239711248fd3b92b17":{
         "scriptId":"u1"},
-      "5e026ecd19c44faaaf17922e877148fb":{
+      "fb301888262643c4b28fcad2d5ca7aa9":{
         "scriptId":"u2"},
+      "3a8352b0bdb94ce9a3089c99ad30d525":{
+        "scriptId":"u3"},
+      "5e026ecd19c44faaaf17922e877148fb":{
+        "scriptId":"u4"},
       "9b46f5ced4cd494bb946afb473a1d17b":{
-        "scriptId":"u3"}},
+        "scriptId":"u5"}},
     "01d683645d044588b96a49c09bf5fe7f":{
-      "scriptId":"u4"},
-    "40505151038a4a86bf69a3c2e5c13dda":{
-      "scriptId":"u5"},
-    "46cb6a5bf9a84d6ebdde66d8161a17d4":{
       "scriptId":"u6"},
-    "ab99601d4baa47eb830c681f26ef6503":{
+    "40505151038a4a86bf69a3c2e5c13dda":{
       "scriptId":"u7"},
-    "2e3b4c91b49d467ab2e310e95eb7fd46":{
+    "46cb6a5bf9a84d6ebdde66d8161a17d4":{
       "scriptId":"u8"},
-    "cca414270db2442bbebdeb314eaf6754":{
+    "ab99601d4baa47eb830c681f26ef6503":{
       "scriptId":"u9"},
-    "804cf15d3c71434a972dff15e7ddf7e3":{
+    "2e3b4c91b49d467ab2e310e95eb7fd46":{
       "scriptId":"u10"},
-    "97b2f4baa5e147b9b3b240519fc5961f":{
+    "cca414270db2442bbebdeb314eaf6754":{
       "scriptId":"u11"},
+    "804cf15d3c71434a972dff15e7ddf7e3":{
+      "scriptId":"u12"},
+    "97b2f4baa5e147b9b3b240519fc5961f":{
+      "scriptId":"u13"},
     "e7ff702f7e0f4247a51098c0f9e33245":{
-      "scriptId":"u12"}}});
+      "scriptId":"u14"}}});
